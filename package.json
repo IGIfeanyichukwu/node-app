@@ -7,7 +7,7 @@
     "start": "node index",
     "dev": "nodemon index"
   },
-  "author": "Ifeanyichukwu Gideon Idoko <if3cofr3sh@gmail.com> (Ifex)",
+  "author": "Gideon Idoko <iamgideonidoko@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.6"
